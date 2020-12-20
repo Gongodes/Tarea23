@@ -1,4 +1,9 @@
+/*Gonzalo G.
+ Vanessa A.
 
+ version 1.0
+
+ objetivos: acciones paginas*/
 
   $( document ).ready(function() {
     $( function() {

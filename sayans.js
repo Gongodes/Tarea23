@@ -1,3 +1,12 @@
+/*Gonzalo G.
+ Vanessa A.
+
+ version 1.0
+
+ objetivos: acciones paginas*/
+
+
+
 function enviar() {
 
     if (document.getElementById('idventa').value == 0 || document.getElementById('vende').value == "" ||

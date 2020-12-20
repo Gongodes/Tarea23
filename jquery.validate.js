@@ -6,6 +6,14 @@
  * Copyright (c) 2020 Jörn Zaefferer
  * Released under the MIT license
  */
+
+
+ /*Gonzalo G.
+ Vanessa A.
+
+ version 1.0
+
+ objetivos: acciones paginas*/
 (function( factory ) {
 	if ( typeof define === "function" && define.amd ) {
 		define( ["jquery"], factory );
